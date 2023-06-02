@@ -4636,3 +4636,528 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.02-05.29.42:344][502]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn3ACDB2184A4B4763E8ED0DB2F943B919.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
 [2023.06.02-05.29.42:356][502]AssetCheck: New page: 에셋 저장:  BP_Pawn
 [2023.06.02-05.29.42:356][502]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.30.21:944][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-05.30.21:944][169]PIE: New page: PIE 세션: Level (2023. 6. 2. 오후 11:30:21)
+[2023.06.02-05.30.21:944][169]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-05.30.21:946][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002467s)
+[2023.06.02-05.30.21:947][169]LogAIModule: Creating AISystem for world Level
+[2023.06.02-05.30.21:947][169]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2023.06.02-05.30.21:947][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003538s)
+[2023.06.02-05.30.21:964][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.06.02-05.30.21:966][169]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-05.30.21:966][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-05.30.21:966][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-05.30.21:968][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-05.30.21:968][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-05.30.21:968][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-05.30.21:968][169]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-05.30.21:971][169]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-05.30.21:971][169]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-05.30.21:993][169]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-05.30.21:993][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-05.30.21:993][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-05.30.21:993][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-05.30.21:994][169]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-05.30.21:994][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-05.30.21:994][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-05.30.21:995][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-05.30.21:995][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-05.30.21:995][169]LogInit: FAudioDevice initialized.
+[2023.06.02-05.30.21:995][169]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level'.
+[2023.06.02-05.30.22:000][169]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-05.30.22:001][169]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-14.30.22
+[2023.06.02-05.30.22:001][169]LogWorld: Bringing up level for play took: 0.000784
+[2023.06.02-05.30.22:001][169]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2023.06.02-05.30.22:003][169]PIE: 서버가 로그인했습니다.
+[2023.06.02-05.30.22:004][169]PIE: 에디터에서 플레이 총 시작 시간 0.061초입니다.
+[2023.06.02-05.30.29:810][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-05.30.29:810][564]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-05.30.29:810][564]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-05.30.29:811][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-05.30.29:825][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-05.30.29:834][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-05.30.29:848][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-05.30.29:848][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-05.30.29:850][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-05.30.29:852][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-05.30.29:855][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.02-05.30.29:877][565]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.06.02-05.30.58:262][413]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-05.30.58:267][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-05.30.58:267][413]PIE: New page: PIE 세션: Level (2023. 6. 2. 오후 11:30:58)
+[2023.06.02-05.30.58:267][413]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-05.30.58:270][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002388s)
+[2023.06.02-05.30.58:270][413]LogAIModule: Creating AISystem for world Level
+[2023.06.02-05.30.58:271][413]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2023.06.02-05.30.58:271][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003390s)
+[2023.06.02-05.30.58:286][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.02-05.30.58:290][413]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-05.30.58:290][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-05.30.58:290][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-05.30.58:291][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-05.30.58:291][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-05.30.58:291][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-05.30.58:291][413]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-05.30.58:293][413]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-05.30.58:293][413]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-05.30.58:314][413]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-05.30.58:314][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-05.30.58:314][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-05.30.58:315][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-05.30.58:315][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-05.30.58:315][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-05.30.58:315][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-05.30.58:316][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-05.30.58:316][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-05.30.58:316][413]LogInit: FAudioDevice initialized.
+[2023.06.02-05.30.58:316][413]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level'.
+[2023.06.02-05.30.58:323][413]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-05.30.58:324][413]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-14.30.58
+[2023.06.02-05.30.58:324][413]LogWorld: Bringing up level for play took: 0.000691
+[2023.06.02-05.30.58:324][413]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2023.06.02-05.30.58:325][413]PIE: 서버가 로그인했습니다.
+[2023.06.02-05.30.58:326][413]PIE: 에디터에서 플레이 총 시작 시간 0.06초입니다.
+[2023.06.02-05.31.23:592][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-05.31.23:592][622]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-05.31.23:592][622]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-05.31.23:592][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-05.31.23:606][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-05.31.23:616][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-05.31.23:633][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-05.31.23:633][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-05.31.23:634][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-05.31.23:639][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.06.02-05.31.23:677][624]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.06.02-05.35.12:620][586]LogEditorTransaction: Undo 새 씬 루트로 만들기
+[2023.06.02-05.35.39:038][240]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn71F4B5F74021074D311474B9D0A34E7F.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-05.35.39:050][240]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-05.35.39:050][240]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.35.39:384][249]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-05.35.39:423][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.06.02-05.35.39:732][252]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn29F7A9E34BB3D03FA5E3C89419A26D05.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-05.35.39:745][252]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-05.35.39:745][252]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.35.42:071][318]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-05.35.42:076][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-05.35.42:076][318]PIE: New page: PIE 세션: Level (2023. 6. 2. 오후 11:35:42)
+[2023.06.02-05.35.42:076][318]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-05.35.42:079][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002668s)
+[2023.06.02-05.35.42:079][318]LogAIModule: Creating AISystem for world Level
+[2023.06.02-05.35.42:080][318]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2023.06.02-05.35.42:080][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003726s)
+[2023.06.02-05.35.42:097][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.02-05.35.42:098][318]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-05.35.42:098][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-05.35.42:098][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-05.35.42:098][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-05.35.42:098][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-05.35.42:098][318]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-05.35.42:102][318]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-05.35.42:102][318]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-05.35.42:124][318]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-05.35.42:124][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-05.35.42:124][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-05.35.42:124][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-05.35.42:125][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-05.35.42:125][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-05.35.42:125][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-05.35.42:127][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-05.35.42:127][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-05.35.42:127][318]LogInit: FAudioDevice initialized.
+[2023.06.02-05.35.42:127][318]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level'.
+[2023.06.02-05.35.42:138][318]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-05.35.42:139][318]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-14.35.42
+[2023.06.02-05.35.42:139][318]LogWorld: Bringing up level for play took: 0.000739
+[2023.06.02-05.35.42:139][318]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2023.06.02-05.35.42:141][318]PIE: 서버가 로그인했습니다.
+[2023.06.02-05.35.42:142][318]PIE: 에디터에서 플레이 총 시작 시간 0.066초입니다.
+[2023.06.02-05.35.54:247][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-05.35.54:247][895]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-05.35.54:248][895]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-05.35.54:248][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-05.35.54:278][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-05.35.54:295][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-05.35.54:318][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-05.35.54:319][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-05.35.54:320][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-05.35.54:323][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-05.35.54:325][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.06.02-05.35.54:348][896]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.06.02-05.36.21:805][536]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnA3B1BF6F4626F72E4FC35E8A69964442.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-05.36.21:819][536]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-05.36.21:819][536]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.37.00:300][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.02-05.37.00:316][357]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level_Auto1601F7CE04BD51F2A4E110682060AFEB4.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Autosaves/Game/Level_Auto1.umap'
+[2023.06.02-05.37.00:317][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.036
+[2023.06.02-05.37.00:317][357]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2023.06.02-05.37.40:065][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.06.02-05.37.41:177][ 54]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.06.02-05.37.41:199][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.02-05.37.41:216][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.02-05.37.41:226][ 54]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level26B981824C3192436DA793ABDE1004C7.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap'
+[2023.06.02-05.37.41:231][ 54]LogFileHelpers: Saving map 'Level' took 0.031
+[2023.06.02-05.37.41:239][ 54]AssetCheck: New page: 에셋 저장:  Level
+[2023.06.02-05.37.41:239][ 54]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2377481f670 [can pipeline])
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 1 (Re-using existing connection! (#123) with host datarouter.ol.epicgames.com)
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (64:ff9b::b849:3396) port 443 (#123))
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.02-05.39.39:997][425]LogHttp: Warning: 000002376EA33200: libcurl info message cache 7 (Closing connection 123)
+[2023.06.02-05.39.40:332][426]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.40.04:454][498]LogHttp: Warning: 0000023839CBD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.40.04:454][498]LogHttp: Warning: 0000023839CBD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.40.04:454][498]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.40.04:454][498]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 1 (Closing connection 124)
+[2023.06.02-05.40.04:454][498]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.41.04:435][677]LogHttp: Warning: 000002376EA32B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.41.04:436][677]LogHttp: Warning: 000002376EA32B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.41.04:436][677]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.41.04:436][677]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 1 (Closing connection 125)
+[2023.06.02-05.41.04:770][678]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.42.04:414][856]LogHttp: Warning: 0000023839CBD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.42.04:414][856]LogHttp: Warning: 0000023839CBD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.42.04:414][856]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.42.04:414][856]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 1 (Closing connection 126)
+[2023.06.02-05.42.04:415][856]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.43.04:396][ 35]LogHttp: Warning: 000002376EA33200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.43.04:396][ 35]LogHttp: Warning: 000002376EA33200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.43.04:396][ 35]LogHttp: Warning: 000002376EA33200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.43.04:396][ 35]LogHttp: Warning: 000002376EA33200: libcurl info message cache 1 (Closing connection 127)
+[2023.06.02-05.43.04:730][ 36]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.44.04:355][214]LogHttp: Warning: 0000023839CBD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.44.04:355][214]LogHttp: Warning: 0000023839CBD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.44.04:355][214]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.44.04:355][214]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 1 (Closing connection 128)
+[2023.06.02-05.44.04:355][214]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.45.04:334][393]LogHttp: Warning: 000002376EA32B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.45.04:334][393]LogHttp: Warning: 000002376EA32B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.45.04:334][393]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.45.04:334][393]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 1 (Closing connection 129)
+[2023.06.02-05.45.04:671][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.46.04:351][572]LogHttp: Warning: 0000023839CBD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.46.04:351][572]LogHttp: Warning: 0000023839CBD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.46.04:352][572]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.46.04:352][572]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 1 (Closing connection 130)
+[2023.06.02-05.46.04:352][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.47.04:358][751]LogHttp: Warning: 000002376EA33200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.47.04:358][751]LogHttp: Warning: 000002376EA33200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.47.04:358][751]LogHttp: Warning: 000002376EA33200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.47.04:358][751]LogHttp: Warning: 000002376EA33200: libcurl info message cache 1 (Closing connection 131)
+[2023.06.02-05.47.04:695][752]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.48.04:365][930]LogHttp: Warning: 0000023839CBD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.48.04:365][930]LogHttp: Warning: 0000023839CBD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.48.04:366][930]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.48.04:366][930]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 1 (Closing connection 132)
+[2023.06.02-05.48.04:366][930]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.49.04:354][109]LogHttp: Warning: 000002376EA32B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.49.04:354][109]LogHttp: Warning: 000002376EA32B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.49.04:354][109]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.49.04:354][109]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 1 (Closing connection 133)
+[2023.06.02-05.49.04:689][110]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.50.04:331][288]LogHttp: Warning: 0000023839CBD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.50.04:331][288]LogHttp: Warning: 0000023839CBD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.50.04:331][288]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.50.04:331][288]LogHttp: Warning: 0000023839CBD600: libcurl info message cache 1 (Closing connection 134)
+[2023.06.02-05.50.04:331][288]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.51.04:325][467]LogHttp: Warning: 000002376EA33200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.51.04:325][467]LogHttp: Warning: 000002376EA33200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.51.04:325][467]LogHttp: Warning: 000002376EA33200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.51.04:325][467]LogHttp: Warning: 000002376EA33200: libcurl info message cache 1 (Closing connection 135)
+[2023.06.02-05.51.04:659][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.52.04:268][646]LogHttp: Warning: 000002376EA32B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.52.04:268][646]LogHttp: Warning: 000002376EA32B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.52.04:268][646]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.52.04:268][646]LogHttp: Warning: 000002376EA32B00: libcurl info message cache 1 (Closing connection 136)
+[2023.06.02-05.52.04:269][646]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.52.42:182][ 52]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget
+[2023.06.02-05.52.53:674][442]LogEditorTransaction: Undo 앵커 이동
+[2023.06.02-05.53.03:981][773]LogHttp: Warning: 000002387C6F1D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.53.03:981][773]LogHttp: Warning: 000002387C6F1D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.53.03:981][773]LogHttp: Warning: 000002387C6F1D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.53.03:981][773]LogHttp: Warning: 000002387C6F1D00: libcurl info message cache 1 (Closing connection 137)
+[2023.06.02-05.53.04:019][774]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.53.59:748][618]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-05.54.03:937][733]LogHttp: Warning: 000002384B0A6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.54.03:937][733]LogHttp: Warning: 000002384B0A6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.54.03:937][733]LogHttp: Warning: 000002384B0A6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.54.03:937][733]LogHttp: Warning: 000002384B0A6B00: libcurl info message cache 1 (Closing connection 138)
+[2023.06.02-05.54.04:066][734]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.54.58:216][585]LogSlate: Window '색상 선택 툴' being destroyed
+[2023.06.02-05.55.03:924][784]LogHttp: Warning: 000002387363CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.55.03:924][784]LogHttp: Warning: 000002387363CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.55.03:924][784]LogHttp: Warning: 000002387363CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.55.03:924][784]LogHttp: Warning: 000002387363CF00: libcurl info message cache 1 (Closing connection 139)
+[2023.06.02-05.55.03:924][784]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.55.28:821][518]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-05.55.30:952][580]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-05.55.31:240][588]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-05.55.31:469][594]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-05.55.31:723][601]LogEditorTransaction: Undo 선택을 복제합니다.
+[2023.06.02-05.55.32:049][611]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-05.55.32:407][622]LogEditorTransaction: Undo 선택을 복제합니다.
+[2023.06.02-05.56.03:940][637]LogHttp: Warning: 00000238735CD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.56.03:940][637]LogHttp: Warning: 00000238735CD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.56.03:940][637]LogHttp: Warning: 00000238735CD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.56.03:940][637]LogHttp: Warning: 00000238735CD600: libcurl info message cache 1 (Closing connection 140)
+[2023.06.02-05.56.03:971][638]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.56.17:829][ 71]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_Widget0C8C1EEB49E3E27522AE378163B1FDF3.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-05.56.17:847][ 71]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-05.56.17:847][ 71]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-05.56.18:765][101]BlueprintLog: New page: WBP_Widget 컴파일
+[2023.06.02-05.56.18:838][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.06.02-05.56.19:132][108]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_Widget71AA704B466CDC6E136DDB9F70C6C8C9.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-05.56.19:145][108]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-05.56.19:145][108]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-05.57.03:966][306]LogHttp: Warning: 000002386D3BB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.02-05.57.03:966][306]LogHttp: Warning: 000002386D3BB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.02-05.57.03:966][306]LogHttp: Warning: 000002386D3BB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.02-05.57.03:966][306]LogHttp: Warning: 000002386D3BB900: libcurl info message cache 1 (Closing connection 141)
+[2023.06.02-05.57.03:966][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C3A1EE0-45D3-A1E6-7436-9CAB217D689B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=de8ca9e545453e70f39becabb45c63be%7Cf1e2b938df414ec699d2f0e3b389ba7c%7C923d864c-e967-4c07-8d20-df8d5565cec9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.02-05.58.10:200][153]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-05.58.10:262][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.06.02-05.58.10:355][153]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn08719FAB43A9AFEA94BAC18B11A79E75.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-05.58.10:368][153]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-05.58.10:368][153]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.58.11:752][197]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnEC19B778454459085028B69A5989641D.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-05.58.11:766][197]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-05.58.11:766][197]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.59.23:098][366]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-05.59.23:105][366]LogBlueprint: Error: [AssetLog] C:\Users\이준상\Desktop\UEHealthVR\UnrealBioHealthVRContents\HumanModelViewer\Content\Assets\Blueprints\BP_Pawn.uasset: [Compiler] ' New Rotation ' 핀의 현재 값(0, 0, 0)이 유효하지 않습니다: 'New Rotation' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2023.06.02-05.59.23:174][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.06.02-05.59.23:244][366]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnF34EC04446AD8914663F44920ED3C053.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-05.59.23:258][366]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-05.59.23:258][366]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-05.59.36:477][821]LogSlate: Took 0.001212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.02-06.00.17:689][ 50]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-06.00.17:753][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.06.02-06.00.17:841][ 50]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn4CA247EF4E6A03EB104C578CF3A1AB53.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.00.17:855][ 50]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-06.00.17:855][ 50]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.00.18:040][ 55]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_WidgetA9F355E54E71537728317BBF84272B04.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.00.18:053][ 55]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.00.18:053][ 55]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.00.20:621][137]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnB5C2F5C44419986DE0B440A5920E2B52.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.00.20:635][137]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-06.00.20:635][137]LogContentValidation: Display: Blueprint /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.01.41:597][571]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.02-06.01.41:626][571]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-06.02.42:383][276]BlueprintLog: New page: WBP_Widget 컴파일
+[2023.06.02-06.02.42:456][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.06.02-06.02.42:489][276]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_Widget671051694034D8F165E8FFBDE4240E4A.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.02.42:501][276]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.02.42:501][276]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.03.10:619][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.02-06.03.10:631][162]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level_Auto2C7B1DB634DABE5075A53FF9D088BC465.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Autosaves/Game/Level_Auto2.umap'
+[2023.06.02-06.03.10:632][162]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.038
+[2023.06.02-06.03.10:632][162]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2023.06.02-06.04.16:498][294]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_WidgetCB046B1A48B88EFA865F20843F131811.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.04.16:509][294]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.04.16:509][294]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.04.17:603][332]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_Widget804FC46D464E25D2E2D938B1EC514CB7.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.04.17:613][332]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.04.17:613][332]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.04.23:356][534]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-06.04.23:362][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-06.04.23:362][534]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 12:04:23)
+[2023.06.02-06.04.23:363][534]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-06.04.23:366][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003473s)
+[2023.06.02-06.04.23:367][534]LogAIModule: Creating AISystem for world Level
+[2023.06.02-06.04.23:367][534]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2023.06.02-06.04.23:367][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.004830s)
+[2023.06.02-06.04.23:397][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.06.02-06.04.23:402][534]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-06.04.23:402][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-06.04.23:402][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-06.04.23:402][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-06.04.23:402][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-06.04.23:402][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-06.04.23:403][534]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-06.04.23:406][534]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-06.04.23:406][534]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-06.04.23:434][534]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-06.04.23:436][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-06.04.23:436][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-06.04.23:436][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-06.04.23:436][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-06.04.23:436][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-06.04.23:436][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-06.04.23:437][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-06.04.23:437][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-06.04.23:437][534]LogInit: FAudioDevice initialized.
+[2023.06.02-06.04.23:437][534]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level'.
+[2023.06.02-06.04.23:449][534]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-06.04.23:452][534]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-15.04.23
+[2023.06.02-06.04.23:452][534]LogWorld: Bringing up level for play took: 0.001004
+[2023.06.02-06.04.23:452][534]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2023.06.02-06.04.23:455][534]PIE: 서버가 로그인했습니다.
+[2023.06.02-06.04.23:455][534]PIE: 에디터에서 플레이 총 시작 시간 0.094초입니다.
+[2023.06.02-06.04.30:593][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-06.04.30:593][879]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-06.04.30:594][879]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-06.04.30:594][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-06.04.30:618][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-06.04.30:625][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-06.04.30:642][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-06.04.30:642][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-06.04.30:643][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-06.04.30:645][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-06.04.30:649][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.02-06.04.30:672][880]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.06.02-06.04.47:752][404]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2023.06.02-06.04.54:276][585]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_WidgetD444672F4FC29362151BFEA8C85D7220.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.04.54:288][585]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.04.54:288][585]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.06.58:221][381]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_WidgetCF9D8CF746263AE16639978A01A73127.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.06.58:233][381]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.06.58:233][381]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.06.59:665][429]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-06.06.59:677][429]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.06.02-06.06.59:680][429]LogPlayLevel: [PlayLevel] Compiling WBP_Widget before play...
+[2023.06.02-06.06.59:745][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.06.02-06.06.59:748][429]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2023.06.02-06.06.59:748][429]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 12:06:59)
+[2023.06.02-06.06.59:749][429]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-06.06.59:751][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002515s)
+[2023.06.02-06.06.59:752][429]LogAIModule: Creating AISystem for world Level
+[2023.06.02-06.06.59:752][429]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2023.06.02-06.06.59:752][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003610s)
+[2023.06.02-06.06.59:771][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.02-06.06.59:771][429]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-06.06.59:771][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-06.06.59:771][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-06.06.59:772][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-06.06.59:772][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-06.06.59:772][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-06.06.59:772][429]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-06.06.59:775][429]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-06.06.59:775][429]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-06.06.59:798][429]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-06.06.59:798][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-06.06.59:798][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-06.06.59:798][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-06.06.59:799][429]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-06.06.59:799][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-06.06.59:799][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-06.06.59:800][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-06.06.59:800][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-06.06.59:800][429]LogInit: FAudioDevice initialized.
+[2023.06.02-06.06.59:800][429]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level'.
+[2023.06.02-06.06.59:805][429]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-06.06.59:806][429]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-15.06.59
+[2023.06.02-06.06.59:806][429]LogWorld: Bringing up level for play took: 0.000797
+[2023.06.02-06.06.59:806][429]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2023.06.02-06.06.59:808][429]PIE: 서버가 로그인했습니다.
+[2023.06.02-06.06.59:809][429]PIE: 에디터에서 플레이 총 시작 시간 0.133초입니다.
+[2023.06.02-06.07.10:007][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-06.07.10:007][937]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-06.07.10:007][937]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-06.07.10:008][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-06.07.10:020][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-06.07.10:031][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-06.07.10:050][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-06.07.10:050][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-06.07.10:051][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-06.07.10:056][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.02-06.07.10:090][938]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.06.02-06.08.06:415][  4]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_WidgetB258F3F04DB31E56753C27BBDC72BA6F.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.08.06:426][  4]AssetCheck: New page: 에셋 저장:  WBP_Widget
+[2023.06.02-06.08.06:426][  4]LogContentValidation: Display: WidgetBlueprint /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.08.07:273][ 31]BlueprintLog: New page: WBP_Widget 컴파일
+[2023.06.02-06.08.07:314][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.06.02-06.08.08:741][ 82]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-06.08.08:748][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-06.08.08:748][ 82]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 12:08:08)
+[2023.06.02-06.08.08:748][ 82]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-06.08.08:751][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003029s)
+[2023.06.02-06.08.08:752][ 82]LogAIModule: Creating AISystem for world Level
+[2023.06.02-06.08.08:752][ 82]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2023.06.02-06.08.08:752][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.004173s)
+[2023.06.02-06.08.08:772][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.02-06.08.08:773][ 82]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-06.08.08:773][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-06.08.08:773][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-06.08.08:774][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-06.08.08:774][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-06.08.08:774][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-06.08.08:774][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-06.08.08:777][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-06.08.08:777][ 82]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-06.08.08:800][ 82]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-06.08.08:800][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-06.08.08:800][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-06.08.08:800][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-06.08.08:801][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-06.08.08:801][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-06.08.08:801][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-06.08.08:801][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-06.08.08:801][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-06.08.08:802][ 82]LogInit: FAudioDevice initialized.
+[2023.06.02-06.08.08:802][ 82]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level'.
+[2023.06.02-06.08.08:811][ 82]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-06.08.08:812][ 82]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-15.08.08
+[2023.06.02-06.08.08:813][ 82]LogWorld: Bringing up level for play took: 0.000811
+[2023.06.02-06.08.08:813][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2023.06.02-06.08.08:815][ 82]PIE: 서버가 로그인했습니다.
+[2023.06.02-06.08.08:816][ 82]PIE: 에디터에서 플레이 총 시작 시간 0.069초입니다.
+[2023.06.02-06.08.18:775][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-06.08.18:775][560]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-06.08.18:775][560]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-06.08.18:775][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-06.08.18:790][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-06.08.18:805][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-06.08.18:825][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-06.08.18:825][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-06.08.18:826][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-06.08.18:828][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-06.08.18:830][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.06.02-06.08.18:867][561]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.06.02-06.08.19:630][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.06.02-06.08.20:470][592]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.06.02-06.08.20:498][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.02-06.08.20:516][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.06.02-06.08.20:529][592]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/LevelB0AD038749642DB5B3A106B7643345AE.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap'
+[2023.06.02-06.08.20:538][592]LogFileHelpers: Saving map 'Level' took 0.040
+[2023.06.02-06.08.20:549][592]AssetCheck: New page: 에셋 저장:  Level
+[2023.06.02-06.08.20:549][592]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
