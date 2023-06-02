@@ -5161,3 +5161,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.02-06.08.20:538][592]LogFileHelpers: Saving map 'Level' took 0.040
 [2023.06.02-06.08.20:549][592]AssetCheck: New page: 에셋 저장:  Level
 [2023.06.02-06.08.20:549][592]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-06.10.02:647][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.06.02-06.15.10:752][840]Cmd: DELETE
+[2023.06.02-06.15.10:752][840]Cmd: ACTOR DELETE
+[2023.06.02-06.15.10:754][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.02-06.15.10:755][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.02-06.15.10:755][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.02-06.15.10:786][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.06.02-06.15.10:789][840]LogEditorActor: Deleted 3 Actors (0.036 secs)
+[2023.06.02-06.15.16:812][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.02-06.15.16:829][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.02-06.15.16:839][ 64]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level6E7A3BA349365B84D9EAD580B2C5644D.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap'
+[2023.06.02-06.15.16:847][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_BuiltData" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level_BuiltData.uasset" SILENT=true
+[2023.06.02-06.15.16:857][ 64]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level_BuiltData2F5B7A494B7D38F51E7BD8A13188FD67.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level_BuiltData.uasset'
+[2023.06.02-06.15.16:868][ 64]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.06.02-06.15.16:869][ 64]LogContentValidation: Display: MapBuildDataRegistry /Game/Level_BuiltData.Level_BuiltData 유효성 검사 중
+[2023.06.02-06.15.16:869][ 64]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-06.15.18:144][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.02-06.15.56:627][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.BP_Pawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.SKEL_BP_Pawn_C' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.BP_Pawn_C' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.BP_Pawn_C:SetCameraRotation' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.SKEL_BP_Pawn_C:UserConstructionScript' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.SKEL_BP_Pawn_C:SetCameraRotation' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.SKEL_BP_Pawn_C:InpAxisKeyEvt_MouseWheelAxis_K2Node_InputAxisKeyEvent_2' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.SKEL_BP_Pawn_C:InpAxisKeyEvt_MouseY_K2Node_InputAxisKeyEvent_1' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:628][336]LogMetaData: Removing '/Game/Blueprints/BP_Pawn.SKEL_BP_Pawn_C:InpAxisKeyEvt_MouseX_K2Node_InputAxisKeyEvent_0' ref from Metadata '/Game/Assets/Blueprints/BP_Pawn.PackageMetaData'
+[2023.06.02-06.15.56:670][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-06.15.56:683][336]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn5EB55FA3411EFBC8825F19B72F38EBAE.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.15.56:687][336]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn5206AC3148887A6E547ABF810BFFA5A1.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.15.56:752][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:752][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.WBP_Widget_C' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.WBP_Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.WBP_Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.WBP_Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Button_Right_K2Node_ComponentBoundEvent_7_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Button_Left_K2Node_ComponentBoundEvent_6_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Button_Back_K2Node_ComponentBoundEvent_5_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Button_37_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Slider_Bone_K2Node_ComponentBoundEvent_3_OnFloatValueChangedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Slider_Vessel_K2Node_ComponentBoundEvent_2_OnFloatValueChangedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Slider_Muscle_K2Node_ComponentBoundEvent_1_OnFloatValueChangedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:BndEvt__WBP_Widget_Slider_Skin_K2Node_ComponentBoundEvent_0_OnFloatValueChangedEvent__DelegateSignature' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:Tick' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:Construct' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:753][336]LogMetaData: Removing '/Game/Widgets/WBP_Widget.SKEL_WBP_Widget_C:PreConstruct' ref from Metadata '/Game/Assets/Widgets/WBP_Widget.PackageMetaData'
+[2023.06.02-06.15.56:772][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_Widget" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Widgets/WBP_Widget.uasset" SILENT=true
+[2023.06.02-06.15.56:786][336]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_Widget1675BB9140F3506E0DFB069536779D37.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.15.56:791][336]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/WBP_WidgetE2A3CE8A4D1EF53EC7943BAF3C0D380F.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Assets/Widgets/WBP_Widget.uasset'
+[2023.06.02-06.15.56:849][336]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.06.02-06.15.56:849][336]LogContentValidation: Display: WidgetBlueprint /Game/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.15.56:849][336]LogContentValidation: Display: ObjectRedirector /Game/Assets/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.15.56:849][336]LogContentValidation: Display: ObjectRedirector /Game/Assets/Widgets/WBP_Widget.Default__WBP_Widget_C 유효성 검사 중
+[2023.06.02-06.15.56:850][336]LogContentValidation: Display: ObjectRedirector /Game/Assets/Widgets/WBP_Widget.WBP_Widget_C 유효성 검사 중
+[2023.06.02-06.15.56:850][336]LogContentValidation: Display: ObjectRedirector /Game/Assets/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.15.56:850][336]LogContentValidation: Display: ObjectRedirector /Game/Assets/Blueprints/BP_Pawn.Default__BP_Pawn_C 유효성 검사 중
+[2023.06.02-06.15.56:850][336]LogContentValidation: Display: ObjectRedirector /Game/Assets/Blueprints/BP_Pawn.BP_Pawn_C 유효성 검사 중
+[2023.06.02-06.15.56:850][336]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.16.03:046][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.02-06.16.03:066][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.06.02-06.16.03:077][634]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level9093D55D4DA1677F12F4748714A47340.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap'
+[2023.06.02-06.16.03:082][634]LogFileHelpers: Saving map 'Level' took 0.037
+[2023.06.02-06.16.03:111][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.02-06.16.03:344][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.06.02-06.16.03:362][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.02-06.16.03:380][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.02-06.16.03:397][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.02-06.16.03:414][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.02-06.16.03:439][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.02-06.16.03:455][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.02-06.16.03:463][634]AssetCheck: New page: 에셋 저장:  Level
+[2023.06.02-06.16.03:463][634]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-06.16.19:508][241]LogSlate: Window '메시지' being destroyed
+[2023.06.02-06.16.19:515][241]Message dialog closed, result: Yes, title: 메시지, text: 다음 폴더들의 검증을 정말 진행하시겠습니까?
+
+/Game/Assets/Blueprints
+/Game/Assets/Materials
+/Game/Assets/Mesh
+/Game/Assets/Meshes
+/Game/Assets/Textures
+/Game/Assets/Widgets
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyebrow_CM.eyebrow_CM 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyebrow_mask.eyebrow_mask 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Material /Game/Assets/Materials/M_SimpleTexture.M_SimpleTexture 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyes_CM.eyes_CM 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Eye_Inst.M_Eye_Inst 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_EyeBrow_Inst.M_EyeBrow_Inst 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyelash_CM.eyelash_CM 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyelash_mask.eyelash_mask 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_EyeLash_Inst.M_EyeLash_Inst 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/hair_style_CM.hair_style_CM 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/hair_style_Mask.hair_style_Mask 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Hair_Inst.M_Hair_Inst 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: Material /Game/Assets/Materials/M_SimpleColor.M_SimpleColor 유효성 검사 중
+[2023.06.02-06.16.19:520][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Skin_Inst.M_Skin_Inst 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/female_head.female_head 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/female_lower.female_lower 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/female_upper.female_upper 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/male_head.male_head 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/male_lower.male_lower 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_JeongMaek_Inst.M_JeongMaek_Inst 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_DongMaek_Inst.M_DongMaek_Inst 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/male_upper.male_upper 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/MInst_SimpleColor.MInst_SimpleColor 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: Material /Game/Assets/Materials/M_Vessel.M_Vessel 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: MaterialParameterCollection /Game/Assets/Materials/MPC_Opacity.MPC_Opacity 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: Material /Game/Assets/Materials/M_Muscle.M_Muscle 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: Material /Game/Assets/Materials/M_Bone.M_Bone 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Bone_Inst.M_Bone_Inst 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Muscle_Inst.M_Muscle_Inst 유효성 검사 중
+[2023.06.02-06.16.19:521][241]LogContentValidation: Display: Texture2D /Game/Assets/Textures/UE4_Logo.UE4_Logo 유효성 검사 중
+[2023.06.02-06.16.19:576][241]AssetCheck: 데이터 유효성 검사 성공.
+[2023.06.02-06.16.19:576][241]AssetCheck: 검사한 파일 수: 30, 통과: 30, 실패: 0, 생략: 0, 유효성 검사 불가: 0
+[2023.06.02-06.16.22:051][314]LogSlate: Window '메시지 로그' being destroyed
+[2023.06.02-06.16.22:055][314]LogSlate: Window '메시지 로그' being destroyed
+[2023.06.02-06.16.28:074][543]LogSlate: Window '메시지' being destroyed
+[2023.06.02-06.16.28:081][543]Message dialog closed, result: Yes, title: 메시지, text: 다음 폴더들의 검증을 정말 진행하시겠습니까?
+
+/Game
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: MapBuildDataRegistry /Game/Level_BuiltData.Level_BuiltData 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyebrow_CM.eyebrow_CM 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyebrow_mask.eyebrow_mask 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: Material /Game/Assets/Materials/M_SimpleTexture.M_SimpleTexture 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyes_CM.eyes_CM 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Eye_Inst.M_Eye_Inst 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_EyeBrow_Inst.M_EyeBrow_Inst 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyelash_CM.eyelash_CM 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/eyelash_mask.eyelash_mask 유효성 검사 중
+[2023.06.02-06.16.28:086][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_EyeLash_Inst.M_EyeLash_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/hair_style_CM.hair_style_CM 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/hair_style_Mask.hair_style_Mask 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Hair_Inst.M_Hair_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: Material /Game/Assets/Materials/M_SimpleColor.M_SimpleColor 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Skin_Inst.M_Skin_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/female_head.female_head 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/female_lower.female_lower 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/female_upper.female_upper 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/male_head.male_head 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/male_lower.male_lower 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_JeongMaek_Inst.M_JeongMaek_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_DongMaek_Inst.M_DongMaek_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: StaticMesh /Game/Assets/Meshes/male_upper.male_upper 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/MInst_SimpleColor.MInst_SimpleColor 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: Material /Game/Assets/Materials/M_Vessel.M_Vessel 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialParameterCollection /Game/Assets/Materials/MPC_Opacity.MPC_Opacity 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: Material /Game/Assets/Materials/M_Muscle.M_Muscle 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: Material /Game/Assets/Materials/M_Bone.M_Bone 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Bone_Inst.M_Bone_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: MaterialInstanceConstant /Game/Assets/Materials/M_Muscle_Inst.M_Muscle_Inst 유효성 검사 중
+[2023.06.02-06.16.28:087][543]LogContentValidation: Display: WidgetBlueprint /Game/Widgets/WBP_Widget.WBP_Widget 유효성 검사 중
+[2023.06.02-06.16.28:088][543]LogContentValidation: Display: Texture2D /Game/Assets/Textures/UE4_Logo.UE4_Logo 유효성 검사 중
+[2023.06.02-06.16.28:088][543]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.16.28:088][543]AssetCheck: 데이터 유효성 검사 성공.
+[2023.06.02-06.16.28:088][543]AssetCheck: 검사한 파일 수: 34, 통과: 34, 실패: 0, 생략: 0, 유효성 검사 불가: 0
+[2023.06.02-06.16.31:274][636]LogSlate: Window '메시지 로그' being destroyed
+[2023.06.02-06.16.31:277][636]LogSlate: Window '메시지 로그' being destroyed
