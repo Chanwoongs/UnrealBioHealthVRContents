@@ -2239,3 +2239,352 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.02-06.56.11:407][867]LogFileHelpers: Saving map 'Level' took 0.039
 [2023.06.02-06.56.11:419][867]AssetCheck: New page: 에셋 저장:  Level
 [2023.06.02-06.56.11:420][867]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-06.58.32:689][108]LogRenderer: Reallocating scene render targets to support 1072x608 Format 10 NumSamples 1 (Frame:1).
+[2023.06.02-06.59.07:372][489]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.02-06.59.18:165][931]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-06.59.18:222][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.06.02-06.59.18:278][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-06.59.18:294][931]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnFD6FF6564A40F6A72DAB0BA9DCCC3FEC.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.59.18:305][931]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-06.59.18:305][931]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.59.18:776][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-06.59.18:792][948]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnA6A71A434BE3FEE79B3B929B37942D6B.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.59.18:804][948]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-06.59.18:804][948]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.59.29:404][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-06.59.29:425][384]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnD06CADC0493FCECCFF92BCA8F85ADEF5.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.59.29:438][384]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-06.59.29:438][384]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-06.59.30:260][414]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-06.59.30:313][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.06.02-06.59.30:789][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-06.59.30:815][428]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn21E085094F77C03AA88472AE8E32DDFB.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-06.59.30:827][428]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-06.59.30:828][428]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.03.00:518][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.03.00:545][565]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn8C66F18E4030BE918F356A8885386125.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.03.00:560][565]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.03.00:561][565]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.03.02:467][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.03.02:487][654]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnAF811EFA466BF31030DE4E82E272130D.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.03.02:501][654]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.03.02:501][654]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.03.05:471][767]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-07.03.05:517][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2023.06.02-07.03.06:021][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.03.06:043][781]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn58E8A44B44B941F269A13B9564E2BC5D.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.03.06:056][781]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.03.06:056][781]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.03.45:092][236]LogEditorTransaction: Undo 노드 이동
+[2023.06.02-07.04.28:416][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.04.28:436][213]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn9D1F40704C59D516D1B48CB9396D3EBB.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.04.28:449][213]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.04.28:449][213]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.04.38:892][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.04.38:911][614]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnBEF19A2744FD3255BD2076A61994C725.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.04.38:923][614]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.04.38:923][614]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.06.26:845][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.06.26:867][132]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn1123F49F47554A4234A56A8ED9218135.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.06.26:880][132]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.06.26:880][132]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.06.27:548][155]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-07.06.27:595][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.06.02-07.06.28:243][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.06.28:269][171]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn4D753D104DCB1F0FB71666A7D7A5E610.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.06.28:282][171]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.06.28:282][171]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.06.32:750][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.06.32:770][338]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnF70322BE4264A9EE57006DA4F9B0B91C.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.06.32:783][338]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.06.32:783][338]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.08.50:547][  2]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-07.08.50:596][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.06.02-07.08.50:689][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.08.50:712][  2]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn30F1E1B046D784CC0B5F149087EC5494.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.08.50:724][  2]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.08.50:724][  2]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.08.51:987][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.08.52:010][ 49]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnD6C78FE245F7AD91868A3586B1D45653.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.08.52:025][ 49]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.08.52:025][ 49]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.08.52:558][ 68]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-07.08.52:564][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-07.08.52:564][ 68]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 1:08:52)
+[2023.06.02-07.08.52:564][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-07.08.52:568][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003104s)
+[2023.06.02-07.08.52:569][ 68]LogAIModule: Creating AISystem for world Level
+[2023.06.02-07.08.52:569][ 68]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2023.06.02-07.08.52:569][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.004249s)
+[2023.06.02-07.08.52:595][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.06.02-07.08.52:595][ 68]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-07.08.52:595][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-07.08.52:595][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-07.08.52:596][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-07.08.52:596][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-07.08.52:596][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-07.08.52:596][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-07.08.52:599][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-07.08.52:599][ 68]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-07.08.52:624][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-07.08.52:625][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-07.08.52:625][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-07.08.52:625][ 68]LogInit: FAudioDevice initialized.
+[2023.06.02-07.08.52:625][ 68]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level'.
+[2023.06.02-07.08.52:634][ 68]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-07.08.52:635][ 68]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-16.08.52
+[2023.06.02-07.08.52:635][ 68]LogWorld: Bringing up level for play took: 0.000990
+[2023.06.02-07.08.52:635][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.06.02-07.08.52:639][ 68]PIE: 서버가 로그인했습니다.
+[2023.06.02-07.08.52:640][ 68]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2023.06.02-07.08.55:383][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.08.55:383][174]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-07.08.55:383][174]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-07.08.55:383][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.08.55:395][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-07.08.55:411][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.08.55:432][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-07.08.55:432][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.08.55:432][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.08.55:435][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.08.55:438][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.06.02-07.08.55:473][175]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.06.02-07.08.57:691][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.08.57:712][259]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnC961907848C8833452E7A09FA13899A0.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.08.57:724][259]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.08.57:724][259]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.09.51:538][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.09.51:569][663]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn9B969B8B44BFC9AD966EAD9C5919F068.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.09.51:582][663]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.09.51:582][663]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.09.52:025][680]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-07.09.52:033][680]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.06.02-07.09.52:035][680]LogPlayLevel: [PlayLevel] Compiling BP_Pawn before play...
+[2023.06.02-07.09.52:098][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.06.02-07.09.52:100][680]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2023.06.02-07.09.52:100][680]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 1:09:52)
+[2023.06.02-07.09.52:100][680]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-07.09.52:103][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002520s)
+[2023.06.02-07.09.52:104][680]LogAIModule: Creating AISystem for world Level
+[2023.06.02-07.09.52:104][680]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2023.06.02-07.09.52:104][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003612s)
+[2023.06.02-07.09.52:127][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.06.02-07.09.52:127][680]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-07.09.52:127][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-07.09.52:127][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-07.09.52:128][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-07.09.52:128][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-07.09.52:128][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-07.09.52:128][680]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-07.09.52:131][680]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-07.09.52:131][680]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-07.09.52:152][680]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-07.09.52:152][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-07.09.52:152][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-07.09.52:152][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-07.09.52:153][680]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-07.09.52:153][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-07.09.52:153][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-07.09.52:154][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-07.09.52:154][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-07.09.52:154][680]LogInit: FAudioDevice initialized.
+[2023.06.02-07.09.52:154][680]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level'.
+[2023.06.02-07.09.52:168][680]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-07.09.52:170][680]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-16.09.52
+[2023.06.02-07.09.52:170][680]LogWorld: Bringing up level for play took: 0.000851
+[2023.06.02-07.09.52:170][680]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.06.02-07.09.52:173][680]PIE: 서버가 로그인했습니다.
+[2023.06.02-07.09.52:174][680]PIE: 에디터에서 플레이 총 시작 시간 0.143초입니다.
+[2023.06.02-07.10.01:719][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.10.01:719][222]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-07.10.01:719][222]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-07.10.01:719][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.10.01:731][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-07.10.01:747][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.10.01:768][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.10.01:768][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.10.01:769][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.10.01:774][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.02-07.10.01:802][223]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.06.02-07.10.13:082][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.10.13:107][636]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnBDA3F2684B38F5CD34EDA2A8C621CECB.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.10.13:120][636]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.10.13:120][636]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.10.13:799][660]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-07.10.13:848][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.06.02-07.11.11:841][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.06.02-07.11.11:853][ 78]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level_Auto1E0C9E72A4A3925BDECCEB9BE23A2FDA4.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Autosaves/Game/Level_Auto1.umap'
+[2023.06.02-07.11.11:855][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.041
+[2023.06.02-07.11.11:855][ 78]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.06.02-07.11.11:855][ 78]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pawn] ([4] browsable assets)...
+[2023.06.02-07.11.11:882][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn]
+[2023.06.02-07.11.11:906][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn]
+[2023.06.02-07.11.11:906][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pawn]
+[2023.06.02-07.11.11:932][ 78]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn_Auto10B2750E44FD1B94CC00028929090B319.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Autosaves/Game/Blueprints/BP_Pawn_Auto1.uasset'
+[2023.06.02-07.11.11:933][ 78]LogFileHelpers: Auto-saving content packages took 0.078
+[2023.06.02-07.11.22:716][513]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.22:716][513]LogEditorTransaction: Undo 노드 이동
+[2023.06.02-07.11.24:399][566]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.24:400][566]LogEditorTransaction: Undo 노드 이동
+[2023.06.02-07.11.24:934][583]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.24:934][583]LogEditorTransaction: Undo 핀 링크 끊기
+[2023.06.02-07.11.25:468][599]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.25:469][599]LogEditorTransaction: Undo 핀 링크 끊기
+[2023.06.02-07.11.28:736][725]Cmd: TRANSACTION REDO
+[2023.06.02-07.11.28:736][725]LogEditorTransaction: Redo 핀 링크 끊기
+[2023.06.02-07.11.29:518][748]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.29:518][748]LogEditorTransaction: Undo 핀 링크 끊기
+[2023.06.02-07.11.31:373][816]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.31:373][816]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2023.06.02-07.11.32:930][870]Cmd: TRANSACTION REDO
+[2023.06.02-07.11.32:930][870]LogEditorTransaction: Redo 현 선택을 삭제합니다.
+[2023.06.02-07.11.33:933][905]Cmd: TRANSACTION UNDO
+[2023.06.02-07.11.33:933][905]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2023.06.02-07.11.35:072][945]BlueprintLog: New page: BP_Pawn 컴파일
+[2023.06.02-07.11.35:129][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.06.02-07.11.35:217][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.11.35:244][945]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_PawnF434BD2042820534B39B10ADA560FB98.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.11.35:258][945]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.11.35:258][945]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
+[2023.06.02-07.11.35:647][957]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-07.11.35:654][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-07.11.35:654][957]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 1:11:35)
+[2023.06.02-07.11.35:655][957]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-07.11.35:658][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002775s)
+[2023.06.02-07.11.35:659][957]LogAIModule: Creating AISystem for world Level
+[2023.06.02-07.11.35:659][957]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2023.06.02-07.11.35:659][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.004108s)
+[2023.06.02-07.11.35:684][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.06.02-07.11.35:684][957]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.06.02-07.11.35:684][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-07.11.35:684][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-07.11.35:685][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-07.11.35:685][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-07.11.35:685][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-07.11.35:685][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-07.11.35:685][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-07.11.35:685][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-07.11.35:685][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-07.11.35:685][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-07.11.35:685][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-07.11.35:685][957]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-07.11.35:688][957]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-07.11.35:688][957]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-07.11.35:711][957]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-07.11.35:712][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-07.11.35:712][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-07.11.35:712][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-07.11.35:712][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-07.11.35:712][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-07.11.35:712][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-07.11.35:714][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-07.11.35:714][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-07.11.35:714][957]LogInit: FAudioDevice initialized.
+[2023.06.02-07.11.35:714][957]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level'.
+[2023.06.02-07.11.35:725][957]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-07.11.35:727][957]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-16.11.35
+[2023.06.02-07.11.35:727][957]LogWorld: Bringing up level for play took: 0.001095
+[2023.06.02-07.11.35:727][957]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.06.02-07.11.35:730][957]PIE: 서버가 로그인했습니다.
+[2023.06.02-07.11.35:731][957]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2023.06.02-07.11.44:770][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.11.44:770][466]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-07.11.44:770][466]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-07.11.44:770][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.11.44:784][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-07.11.44:801][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.11.44:821][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-07.11.44:821][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.11.44:823][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.11.44:825][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.11.44:827][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.06.02-07.11.44:856][467]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.06.02-07.11.50:419][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.06.02-07.11.51:366][731]Cmd: DELETE
+[2023.06.02-07.11.51:366][731]Cmd: ACTOR DELETE
+[2023.06.02-07.11.51:370][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.02-07.11.51:411][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.06.02-07.11.51:414][731]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2023.06.02-07.11.51:988][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.02-07.11.52:557][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.02-07.11.52:581][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.02-07.11.52:591][794]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/LevelB4188C0E4F04FFDE51143E8E00B0B33D.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level.umap'
+[2023.06.02-07.11.52:599][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_BuiltData" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level_BuiltData.uasset" SILENT=true
+[2023.06.02-07.11.52:609][794]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/Level_BuiltDataD3F3FDB3483A5A9E0CF546A8FFC014A7.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Level_BuiltData.uasset'
+[2023.06.02-07.11.52:632][794]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.06.02-07.11.52:632][794]LogContentValidation: Display: MapBuildDataRegistry /Game/Level_BuiltData.Level_BuiltData 유효성 검사 중
+[2023.06.02-07.11.52:632][794]LogContentValidation: Display: World /Game/Level.Level 유효성 검사 중
+[2023.06.02-07.11.53:220][825]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.02-07.11.53:226][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-07.11.53:226][825]PIE: New page: PIE 세션: Level (2023. 6. 3. 오전 1:11:53)
+[2023.06.02-07.11.53:226][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.06.02-07.11.53:229][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002242s)
+[2023.06.02-07.11.53:229][825]LogAIModule: Creating AISystem for world Level
+[2023.06.02-07.11.53:229][825]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2023.06.02-07.11.53:229][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003249s)
+[2023.06.02-07.11.53:251][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.06.02-07.11.53:252][825]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.02-07.11.53:252][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.02-07.11.53:252][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-07.11.53:253][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-07.11.53:253][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-07.11.53:253][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-07.11.53:253][825]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.02-07.11.53:256][825]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.02-07.11.53:256][825]LogAudioMixer: Display: 1: FrontRight
+[2023.06.02-07.11.53:278][825]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.02-07.11.53:278][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-07.11.53:279][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-07.11.53:279][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-07.11.53:279][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.02-07.11.53:279][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.02-07.11.53:279][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.02-07.11.53:280][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.02-07.11.53:280][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.02-07.11.53:280][825]LogInit: FAudioDevice initialized.
+[2023.06.02-07.11.53:280][825]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level'.
+[2023.06.02-07.11.53:292][825]LogLoad: Game class is 'GameModeBase'
+[2023.06.02-07.11.53:293][825]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2023.06.02-16.11.53
+[2023.06.02-07.11.53:293][825]LogWorld: Bringing up level for play took: 0.000652
+[2023.06.02-07.11.53:293][825]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.06.02-07.11.53:296][825]PIE: 서버가 로그인했습니다.
+[2023.06.02-07.11.53:297][825]PIE: 에디터에서 플레이 총 시작 시간 0.072초입니다.
+[2023.06.02-07.12.06:817][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.12.06:817][632]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.06.02-07.12.06:818][632]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-07.12.06:818][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.12.06:834][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-07.12.06:845][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-07.12.06:864][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-07.12.06:864][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.12.06:865][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.02-07.12.06:871][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.06.02-07.12.06:895][633]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.06.02-07.13.03:133][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pawn" FILE="../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset" SILENT=true
+[2023.06.02-07.13.03:156][675]LogSavePackage: Moving '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Saved/BP_Pawn6E6E6CF149E62310DCA7698EFD13A2E9.tmp' to '../../../../../../Users/이준상/Desktop/UEHealthVR/UnrealBioHealthVRContents/HumanModelViewer/Content/Blueprints/BP_Pawn.uasset'
+[2023.06.02-07.13.03:170][675]AssetCheck: New page: 에셋 저장:  BP_Pawn
+[2023.06.02-07.13.03:170][675]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Pawn.BP_Pawn 유효성 검사 중
